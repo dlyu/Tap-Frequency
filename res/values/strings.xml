@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tap Frequency</string>
+    <string name="taps">Taps:</string>
+    <string name="time">Time elapsed (ms):</string>
+    <string name="frequency">Frequency (Hz):</string>
+    <string name="touchMeIdle">Touch here to start!</string>
+    <string name="touchMeRunning">Keep touching!</string>
+    <string name="touchMePaused">Touch me or press the \"Resume\" button to resume!</string>
+   
+    <integer name="defaultDuration">5</integer>
+    <bool name="defaultShowAreas">true</bool>
+    <color name="defaultTapColor">#11FF0000</color>
+</resources>
